@@ -4,7 +4,7 @@ Welcome to this repository, a collection of iconic photographs by some of the wo
 
 ## 🔗 Access the Collection  
 Explore the gallery via the following link:  ( Which is got from my university study. Thanks to all photographers and my mentors from KUETPS)
-[**Google Drive Link**](#https://drive.google.com/drive/folders/1UMHdE6wayUkL9vq0ElOCe4QADjnAH1g_?usp=sharing)  
+[**Google Drive Link**](https://drive.google.com/drive/folders/1UMHdE6wayUkL9vq0ElOCe4QADjnAH1g_?usp=sharing)  
 
 ## 📂 Contents  
 The collection is organized into the following categories:  
